@@ -4,6 +4,6 @@
 
 I ❤ Open Source. I love [Vim](https://www.vim.org/) and [Go](https://golang.org)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
-![mattn's github stats](https://github-readme-stats.vercel.app/api?username=mattn)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattn&hide=html)
+![mattn's github stats](https://github-readme-stats.vercel.app/api?username=mattn&show_icons=true&count_private=true&line_height=33.7)
 
