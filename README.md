@@ -17,4 +17,3 @@ I'm looking for [GitHub sponsors](https://github.com/sponsors/mattn).
 
 [![@mattn's Holopin board](https://holopin.me/mattn)](https://holopin.io/@mattn)
 
-npub1937vv2nf06360qn9y8el6d8sevnndy7tuh5nzre4gj05xc32tnwqauhaj6
