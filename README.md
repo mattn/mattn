@@ -3,12 +3,6 @@
 [![GitHub Followers](https://img.shields.io/github/followers/mattn?label=Follow&style=social)](https://github.com/mattn)
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/mattn?label=Sponsors&style=social)](https://github.com/sponsors/mattn)
 
-**Power Level (Scouter Reading):**  
-![Power Level](https://img.shields.io/badge/Power%20Level-Over%2020000!-critical?style=for-the-badge)
-
-<!-- For a real Dragon Ball-style Scouter image: Visit https://www.github-scouter.com/en, enter "mattn", generate, download, upload to GitHub, and replace the URL below -->
-<!-- ![Scouter](YOUR_SCOUTER_IMAGE_URL.png) -->
-
 I ❤ Open Source. I love [Vim](https://www.vim.org/) and [Go](https://golang.org/).
 
 - Long-time Golang user & contributor
