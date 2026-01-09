@@ -22,10 +22,6 @@ I ❤ Open Source. I love [Vim](https://www.vim.org/) and [Go](https://golang.or
 - [emmet-vim](https://github.com/mattn/emmet-vim) ![Stars](https://img.shields.io/github/stars/mattn/emmet-vim?label=Power%20Level&style=social)
 - [goreman](https://github.com/mattn/goreman) ![Stars](https://img.shields.io/github/stars/mattn/goreman?label=Power%20Level&style=social)
 
-### Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mattn&hide=html&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mattn&show_icons=true&count_private=true&line_height=40)
-
 [![@mattn's Holopin board](https://holopin.me/mattn)](https://holopin.io/@mattn)
 
 Looking for more [GitHub Sponsors](https://github.com/sponsors/mattn) 💖
