@@ -10,6 +10,9 @@ I ❤ Open Source. I love [Vim](https://www.vim.org/) and [Go](https://golang.or
 - Author of many Go tools
 - Vim plugin author (emmet-vim, vim-gist, vim-lsp-settings, etc.)
 - Windows hacker
+- 
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mattn&hide=html)
+![mattn's github stats](https://github-readme-stats-fast.vercel.app/api?username=mattn&show_icons=true&count_private=true&line_height=40)
 
 ### Popular Repositories (Power Level Ranking)
 - [go-sqlite3](https://github.com/mattn/go-sqlite3) ![Stars](https://img.shields.io/github/stars/mattn/go-sqlite3?label=Power%20Level&style=social)
